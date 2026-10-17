@@ -1,6 +1,6 @@
 # OSINT Exposure Assessment Tool
 
-## ⚠️ Disclaimer & Ethics
+##  Disclaimer & Ethics
 **This tool is intended for authorized security assessments and educational purposes only.**  
 Always ensure you have explicit permission from the organization owner before running OSINT gathering tools against their infrastructure. While OSINT uses publicly available data, aggressive scanning or misuse of API terms of service can lead to IP bans or legal issues. The user assumes all responsibility for compliance with local laws and regulations.
 
